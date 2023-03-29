@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 👯 Feel free to interesting ~~lucrative~~ opportunities through email at **amarchar@stevens.edu**
+- 👯 Feel free to interesting reach out for any interesting ~~lucrative~~ opportunities through email at **amarchar@stevens.edu**
 
 - 📫 How to reach me - **amarchar@stevens.edu** or **arnavmar16@gmail.com** 
 
