@@ -4,7 +4,7 @@ I'm experienced in Backend Development, Android Development, and DevOps with the
 
 ## What I’m up to 🏃‍ 👀
 - 🌱 Currently learning **SQL**, **Golang**, **Rust**, and **Linux**
-- 🪙 Investing into Dogecoin to become millionaire 🚀📉
+- 🪙 Investing in Crypto to become a millionaire 🚀📉
 
 - 👯 Feel free to reach out for any interesting ~~lucrative~~ opportunities through email at **amarchar@stevens.edu**
 
