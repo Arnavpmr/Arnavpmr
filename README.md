@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Marchareddy</h1>
-<h3 align="center">I'm a Junior studying CS at Stevens Institute of Technology!</h3>
+<h3 align="center">I'm a CS Graduate from Stevens Institute of Technology!</h3>
 I'm experienced in Backend Development, Android Development, and DevOps with the aim to dive deeper into backend tooling.
 
 ## What I’m up to 🏃‍ 👀
